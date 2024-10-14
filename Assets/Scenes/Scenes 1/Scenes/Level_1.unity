@@ -1891,6 +1891,14 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4466100448016853885, guid: 7e0df4b4c3f45d1498bd1bbd5358675c, type: 3}
+      propertyPath: speed
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 4466100448016853885, guid: 7e0df4b4c3f45d1498bd1bbd5358675c, type: 3}
+      propertyPath: jetSpeed
+      value: 4000
+      objectReference: {fileID: 0}
+    - target: {fileID: 4466100448016853885, guid: 7e0df4b4c3f45d1498bd1bbd5358675c, type: 3}
       propertyPath: maxVelocity.x
       value: 60
       objectReference: {fileID: 0}
