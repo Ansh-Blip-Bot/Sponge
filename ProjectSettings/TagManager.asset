@@ -6,6 +6,8 @@ TagManager:
   tags:
   - New tag
   - Ground
+  - deadly
+  - Deadly
   layers:
   - Default
   - TransparentFX
